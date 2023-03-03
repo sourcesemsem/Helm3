@@ -8,7 +8,7 @@
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/bhthh/ah",
+    "website": "https://github.com/sourcesemsem/Helm3",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
